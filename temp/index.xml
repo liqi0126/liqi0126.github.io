@@ -106,5 +106,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://example.com/temp/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/temp/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/temp/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/temp/terms/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
