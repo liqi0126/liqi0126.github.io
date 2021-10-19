@@ -7,7 +7,7 @@
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu59b57c230c79c25278a22824636772c0_584739_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://example.com/publication/</link>
     </image>
@@ -30,7 +30,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
