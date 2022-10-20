@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publication_types | Qi Li</title><link>https://liqi17thu.github.io/publication_types/</link><atom:link href="https://liqi17thu.github.io/publication_types/index.xml" rel="self" type="application/rss+xml"/><description>Publication_types</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><image><url>https://liqi17thu.github.io/media/icon_hu59b57c230c79c25278a22824636772c0_584739_512x512_fill_lanczos_center_3.png</url><title>Publication_types</title><link>https://liqi17thu.github.io/publication_types/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Qi Li</title>
+    <link>https://liqi17thu.github.io/publication_types/</link>
+      <atom:link href="https://liqi17thu.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liqi17thu.github.io/media/icon_hu129327f9224c6a39e8370c007fad327f_8832_512x512_fill_lanczos_center_3.png</url>
+      <title>Publication_types</title>
+      <link>https://liqi17thu.github.io/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>
