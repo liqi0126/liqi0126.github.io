@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://liqi17thu.github.io/sitemap.xml
+Sitemap: https://liqi0126.github.io/sitemap.xml
