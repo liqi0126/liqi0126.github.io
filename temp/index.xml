@@ -35,7 +35,7 @@
 &lt;h2 id=&#34;youre-looking-at-a-wowchemy-_widget_&#34;&gt;You&amp;rsquo;re looking at a Wowchemy &lt;em&gt;widget&lt;/em&gt;&lt;/h2&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    &lt;p&gt;This homepage section is an example of adding &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;elements&lt;/a&gt; to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/&#34;&gt;&lt;em&gt;Blank&lt;/em&gt; widget&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;This homepage section is an example of adding &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;elements&lt;/a&gt; to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Blank&lt;/em&gt; widget&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Backgrounds can be applied to any section. Here, the &lt;em&gt;background&lt;/em&gt; option is set give a &lt;em&gt;color gradient&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;To remove this section, delete &lt;code&gt;content/home/demo.md&lt;/code&gt;.&lt;/strong&gt;&lt;/p&gt;
   &lt;/div&gt;
